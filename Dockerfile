@@ -1,4 +1,4 @@
-FROM ljfranklin/terraform-resource:0.12.23
+FROM ljfranklin/terraform-resource:0.12.24
 
 RUN apk -Uuv add groff less python py-pip jq
 RUN pip install awscli
