@@ -4,5 +4,7 @@ A [Concourse](http://concourse.ci/) resource that allows jobs to modify IaaS res
 
 * aws-cli
 * jq
+* [Open Policy Agent](https://www.openpolicyagent.org/)
+* [conftest](https://www.conftest.dev/) 
 
 Have a look at the Dockerfile for a detailed list.
